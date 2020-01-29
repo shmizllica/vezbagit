@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TypeOf operator</title>
+</head>
+<body>
+    
+     <script>
+         
+         
+       
+         let ime="Marko";
+         typeof(ime);
+         
+         
+         
+         
+         
+         
+         
+      //   let godine=23;
+        // typeof godine;
+    
+    
+    
+    
+    //U skrinsotu se najbolje vidi o cemu se radi.
+    
+    
+    
+    </script>
+</body>
+</html>
