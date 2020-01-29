@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>String Konverzija</title>
+</head>
+<body>
+    
+    <script>
+      
+        
+       
+       
+        
+        
+        let godine=23;
+        godine=String(godine);
+        typeof(godine);
+        
+        
+        
+    
+    </script>
+</body>
+</html>
